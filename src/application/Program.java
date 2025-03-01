@@ -10,7 +10,7 @@ import entities.Reservation;
 public class Program {
 
 	public static void main(String[] args) throws ParseException {
-		//Solução muito ruim
+		//Solução ruim
 		
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
